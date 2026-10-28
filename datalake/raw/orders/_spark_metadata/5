@@ -1,0 +1,4 @@
+v1
+{"path":"file:///opt/project/datalake/raw/orders/part-00000-ebd109f4-b3fe-4a2f-8917-1326c4212070-c000.json","size":55705,"isDir":false,"modificationTime":1793202611499,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/project/datalake/raw/orders/part-00001-fc7dd0f5-dcd6-4b2b-a417-1ba111d7f015-c000.json","size":63706,"isDir":false,"modificationTime":1793202611463,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/project/datalake/raw/orders/part-00002-6302fc08-a189-476c-aabb-2c1f8ff095c8-c000.json","size":64140,"isDir":false,"modificationTime":1793202611443,"blockReplication":1,"blockSize":33554432,"action":"add"}

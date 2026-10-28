@@ -1,0 +1,3 @@
+v1
+{"path":"file:///opt/project/datalake/raw/orders/part-00000-d2c511a4-af84-4771-95c7-606a37381897-c000.json","size":395,"isDir":false,"modificationTime":1793202642139,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/project/datalake/raw/orders/part-00001-498b278c-e1ff-4149-9f58-1006f0665f78-c000.json","size":388,"isDir":false,"modificationTime":1793202642100,"blockReplication":1,"blockSize":33554432,"action":"add"}

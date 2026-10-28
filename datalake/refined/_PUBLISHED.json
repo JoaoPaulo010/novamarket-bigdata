@@ -1,0 +1,11 @@
+{
+  "publicado_em": "2026-10-28T16:01:12.373640",
+  "tabelas": [
+    ".gitkeep",
+    "_PUBLISHED.json",
+    "faturamento_categoria",
+    "kpis_diarios",
+    "top_produtos",
+    "vendas_campanha"
+  ]
+}

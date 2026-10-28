@@ -1,0 +1,4 @@
+datalake/_checkpoints/
+__pycache__/
+.env
+*.pdf
